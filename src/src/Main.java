@@ -1,3 +1,5 @@
+package src;
+
 /**
  * Created by Prasanga Fernando on 11/10/2017.
  * This project is to revise the knowledge of arrays.
