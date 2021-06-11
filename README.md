@@ -6,4 +6,4 @@ Here I have trimmed all the necessary excersices that can train us to understand
 I have also included 2D array.( Multi dimentional array)
 ....................................................
 
-Multi dimentional arrays are littel bit harder to understand. So I have put some comments for the beginners to understand the code.
+Multi dimentional arrays are litte bit difficult to understand. So I have put some comments for the beginners to understand the code.
