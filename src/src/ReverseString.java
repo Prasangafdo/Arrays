@@ -13,13 +13,15 @@ public class ReverseString {
 		
 		System.out.println(array.length);
 		
-//		for(int i=0;i<array.length;i++) {
-//			System.out.println(array[i]);
-//		}
-//		
-//		for(int i=array.length-1;i>=0;i--) {
-//			System.out.print(array[i]);
-//		}
+		for(int i=0;i<array.length;i++) {
+			System.out.print(array[i]);//Printing forward
+		}
+		
+		System.out.println();
+		
+		for(int i=array.length-1;i>=0;i--) {//Printing backwards
+			System.out.print(array[i]);
+		}
 		
 		int[] arr = {10, 12, 201, 5, 6, 90, 31};
 		
@@ -55,20 +57,7 @@ public class ReverseString {
 //		}
 //		
 		
-		for (int i = 0; i < arr.length; i++) {
-			for (int j = i; j <=i; j++) {
-				int temp = arr[j];
-				
-				 System.out.println(j);
-              arr[j] = arr[j+1];
-              arr[j+1] = temp;
-             
-			}
-		}
-		
-		for(int i=0;i<arr.length;i++) {
-			System.out.println(arr[i]);
-		}
+
 		
 
 	}
